@@ -1,4 +1,4 @@
-# Bicycle-Sharing-Case-Study
+# Bicycle-Sharing-Analysis-Case-Study
 
 ![image](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/1ee4dd6d-5d13-44e0-899c-5de7aff87057)
 
