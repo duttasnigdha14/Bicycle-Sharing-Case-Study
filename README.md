@@ -12,7 +12,8 @@ The insights gained from this analysis can drive several business decisions with
 
 **Data Preparation**
 In the data preparation stage, I utilized MS SQL Server to clean and sort the dataset. I initially loaded each monthly data sheet individually to identify any null values or extraneous blank spaces. During this process, it was discovered that the columns "started_station_id," "started_station," "ended_station_id," and "ended_station" had null values. These null values were handled using the "isnull" condition, and the ride IDs were removed.
-![Screenshot (29)](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/a11c0ebc-ee25-48a5-b3d3-5dd636c2911e)
+![Screenshot (30)](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/0a57f7df-b4ad-4c16-8c88-3c3a6cd5a7a3)
+
 
 **Data Processing**
 To facilitate further analysis, I created a new table by combining the 12 individual monthly sheets. Additionally, I added four extra columns to extract the month, day, start time, and end time of each bike trip, which allowed for the calculation of trip duration.
@@ -24,8 +25,8 @@ Member Percentage: Determined the percentage of individual members using the bik
 Popular Bike: Identified the most frequently used bike among all members.
 Busiest Month, Day, and Time: Identified the busiest month, day, and time periods throughout the year.
 The results of these analyses were saved in a combined table, which was exported to a CSV file for further analysis.
-![Screenshot (30)](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/0a57f7df-b4ad-4c16-8c88-3c3a6cd5a7a3)
 
+![Screenshot (29)](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/a11c0ebc-ee25-48a5-b3d3-5dd636c2911e)
 **Data Analysis and Visualization**
 To present the data and insights to stakeholders, I employed Tableau as the visualization tool. I used various maps and charts to visually represent the findings of the query questions. The visualizations allowed for a comprehensive understanding of trends, patterns, and key metrics related to bike usage within the company.
 
