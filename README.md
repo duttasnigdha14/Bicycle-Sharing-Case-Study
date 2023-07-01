@@ -40,5 +40,9 @@ The visualization outputs provide valuable insights into the performance, member
 ![Screenshot (28)](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/87369397-01a6-4263-96dd-df743d99aa91)
 
 
-Tableau DashBoard Link
+*Tableau DashBoard Link*
 https://public.tableau.com/app/profile/snigdha.dutta/viz/CyclistBikeShareanalysisCaseStudy/Dashboard2
+
+
+**Conclusion**
+Through the combination of SQL data processing and Tableau visualizations, this case study offers a comprehensive analysis of the bicycle sharing company's data. The findings provide actionable insights into trip durations, member engagement, bike popularity, and peak usage periods. These insights can inform strategic decisions, marketing campaigns, and operational improvements to enhance the success and growth of the bicycle sharing company.
