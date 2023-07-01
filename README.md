@@ -1,5 +1,9 @@
 # Bicycle-Sharing-Case-Study
 
+![image](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/1ee4dd6d-5d13-44e0-899c-5de7aff87057)
+
+
+
 Welcome to the Bicycle-share analysis case study! 
 This case study focuses on analyzing data from a bicycle sharing company for the period of 2022 to 2023. The dataset contains a total of 5 million records, which were cleaned and processed using SQL.
 
