@@ -38,3 +38,7 @@ The visualization outputs provide valuable insights into the performance, member
 
 
 ![Screenshot (28)](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/87369397-01a6-4263-96dd-df743d99aa91)
+
+
+Tableau DashBoard Link
+https://public.tableau.com/app/profile/snigdha.dutta/viz/CyclistBikeShareanalysisCaseStudy/Dashboard2
