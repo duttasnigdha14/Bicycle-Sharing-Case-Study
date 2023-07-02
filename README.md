@@ -8,6 +8,7 @@ Welcome to the Bicycle-share analysis case study!
 This case study focuses on analyzing data from a bicycle sharing company for the period of 2022 to 2023. The dataset contains a total of 5 million records, which were cleaned and processed using SQL.
 
 **Ask**
+
 What is the problem you are trying to solve?
 The main problem addressed in this case study is to identify strategies to convert casual riders into annual members. By understanding the differences between these two member types and their motivations, we can design targeted marketing strategies and operational improvements to drive membership conversion.
 
