@@ -33,10 +33,13 @@ The results of these analyses were saved in a combined table, which was exported
 
 ![Screenshot (29)](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/a11c0ebc-ee25-48a5-b3d3-5dd636c2911e)
 **Data Analysis and Visualization**
-To present the data and insights to stakeholders, I employed Tableau as the visualization tool. I used various maps and charts to visually represent the findings of the query questions. The visualizations allowed for a comprehensive understanding of trends, patterns, and key metrics related to bike usage within the company.
+To present the data and insights to stakeholders, I employed Power BI as the visualization tool. I used various maps and charts to visually represent the findings of the query questions. The visualizations allowed for a comprehensive understanding of trends, patterns, and key metrics related to bike usage within the company.
 
 The visualization outputs provide valuable insights into the performance, member engagement, and popularity of bikes, enabling informed decision-making and the development of effective strategies.
 
+![image](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/9f250c65-332f-4705-958e-12d08103e48c)
+
+Create another visualization using Tableau as well.
 
 ![Screenshot (28)](https://github.com/duttasnigdha14/Bicycle-Sharing-Case-Study/assets/108872975/87369397-01a6-4263-96dd-df743d99aa91)
 
